@@ -32,6 +32,7 @@ function App() {
             </Form>
 
             <Button variant="outline-primary">ICH BIN EIN KNOPF!</Button>
+            <Button variant="outline-danger">ICH BIN EIN ZWEITER KNOPF!</Button>
           </Navbar.Collapse>
         </Container>
       </Navbar>
