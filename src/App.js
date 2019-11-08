@@ -31,8 +31,13 @@ function App() {
               <Button variant="outline-success">Search</Button>
             </Form>
 
+<<<<<<< HEAD
             <Button variant="outline-primary">ICH BIN EIN KNOPF!DER NICHTS KANN!!!</Button>
             <Button variant="outline-danger">ICH BIN EIN ZWEITER KNOPF!UND ICH KANN NOCH WENIGER!!!</Button>
+=======
+            <Button variant="outline-primary" size="sm">ICH BIN EIN KNOPF!</Button>
+            <Button variant="outline-danger" size="sm">ICH BIN AUCH EIN KNOPF!</Button>
+>>>>>>> c48f28efc3642d108c02cda2452614bd7c6e6cfb
           </Navbar.Collapse>
         </Container>
       </Navbar>
