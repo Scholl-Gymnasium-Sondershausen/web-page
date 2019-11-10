@@ -30,9 +30,6 @@ function App() {
               <FormControl type="text" placeholder="Search" className="mr-sm-2" />
               <Button variant="outline-success">Search</Button>
             </Form>
-
-            <Button variant="outline-primary" size="sm">ICH BIN EIN KNOPF!ICH KANN NICHTS!!!</Button>
-            <Button variant="outline-danger" size="sm">ICH BIN AUCH EIN KNOPF!UND ICH KANN NOCH WENIGER!!!</Button>
           </Navbar.Collapse>
         </Container>
       </Navbar>
