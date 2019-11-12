@@ -1,7 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Container, Row, Col, Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap'
+import { Container, Row, Col, Navbar, Nav, NavDropdown, Form, FormControl, Button, Image } from 'react-bootstrap';
+import { Parallax, Background } from 'react-parallax';
+
 
 function App() {
   return (
@@ -36,8 +38,10 @@ function App() {
       <Container className="app" fluid={false}>
         <Row>
           <Col className="col1">
-            <h1>Ein großer Baum...</h1>
-            <img src="https://tse3.mm.bing.net/th?id=OIP.vZINCIW4jCLh4U1yfnv8YQHaHa&pid=Api&P=0&w=300&h=300" />
+            <Row>
+              <h1>Ein großer Baum...</h1>
+              <img src="https://tse3.mm.bing.net/th?id=OIP.vZINCIW4jCLh4U1yfnv8YQHaHa&pid=Api&P=0&w=300&h=300" />
+            </Row>
           </Col>
           <Col className="col2">
             <ul className="liste">
@@ -56,11 +60,19 @@ function App() {
           </p>
           </Col>
         </Row>
+        <Row>
+          <Col>
+            <Parallax strength={-400} bgImage={require('./tree.jpg')}>
+              <div style={{ height: "200px" }} />
+            </Parallax>
+          </Col>
+        </Row>
+        <div style={{ height: '1000px' }} />
       </Container>
       <div>
         <p>
           Hallo Welt
-          
+
         </p>
       </div>
     </>
