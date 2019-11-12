@@ -60,15 +60,13 @@ function App() {
           </p>
           </Col>
         </Row>
-        <Row>
-          <Col>
-            <Parallax strength={-400} bgImage={require('./tree.jpg')}>
-              <div style={{ height: "200px" }} />
-            </Parallax>
-          </Col>
-        </Row>
+
+        <Parallax strength={-800} bgImage={require('./tree.jpg')}>
+          <div style={{ height: "200px" }} />
+        </Parallax>
         <div style={{ height: '1000px' }} />
       </Container>
+
       <div>
         <p>
           Hallo Welt
