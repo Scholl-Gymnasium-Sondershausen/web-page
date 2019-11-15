@@ -107,9 +107,9 @@ function App() {
               </InputGroup>
               <InputGroup>
                 <InputGroup.Prepend>
-                  <InputGroup.Text suppressContentEditableWarning={true}>Passwort</InputGroup.Text>
+                  <InputGroup.Text>Passwort</InputGroup.Text>
                 </InputGroup.Prepend>
-                <FormControl onChange={onPasswordInput} />
+                <FormControl onChange={onPasswordInput} type="password"/>
               </InputGroup>
             </Modal.Body>
             <Modal.Footer>
