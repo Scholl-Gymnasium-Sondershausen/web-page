@@ -22,6 +22,13 @@
   width: 100%
 }
 
+#listId {
+  background-color: #5c5b91
+}
+#listId li {
+  color: #8f1717
+}
+
 .col1 {
   float: left;
   width: 50%;
