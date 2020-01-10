@@ -40,3 +40,10 @@
 .App-link {
   color: #09d3ac;
 }
+
+li {
+}
+
+#meso li:nth-child(even) {
+  color: rgba(255,120,255,255);
+}

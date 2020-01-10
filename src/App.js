@@ -14,10 +14,13 @@ import {
     Row
 } from 'react-bootstrap';
 
+import MasterDetail from "./MasterDetail";
+
 class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
+            showMasterdetail: true,
             agList: [
                 {
                     title: "ag 1"
@@ -39,11 +42,16 @@ class App extends Component {
             let item = list[i]
             let name = item.name
             console.log(name)
-          if (item.age !== undefined) {
-            let age = item.age
-            console.log(age)
-          }
+            if (item.age !== undefined) {
+                let age = item.age
+                console.log(age)
+            }
         }
+    }
+
+    ChangeContent() {
+        let {showMasterdetail} = this.state
+        this.setState({showMasterdetail: (showMasterdetail) ? false : true})
     }
 
     render() {
@@ -51,7 +59,7 @@ class App extends Component {
             <>
                 <Navbar bg="dark" expand="lg">
                     <Container>
-                        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+                        <Navbar.Brand href="#home">Speen</Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="mr-auto">
@@ -60,7 +68,7 @@ class App extends Component {
                                     <NavDropdown.Item href="#erstes-zeitalter">Erstes Zeitalter</NavDropdown.Item>
                                     <NavDropdown.Item href="#zweites-zeitalter">Zweites Zeitalter</NavDropdown.Item>
                                     <NavDropdown.Item href="#drittes-zeitalter">Drittes Zeitalter</NavDropdown.Item>
-                                    <NavDropdown.Item href="#viertes-zeitalter">Viertes Zeitalter</NavDropdown.Item>
+                                    <NavDropdown.Item href="#viertes-zeitalter">Meat</NavDropdown.Item>
                                 </NavDropdown>
                                 <NavDropdown title="Orte und Länder" id="basic-nav-dropdown">
                                     <NavDropdown.Item href="#orte-und-laender-erstes-zeitalter">Erstes
@@ -81,7 +89,30 @@ class App extends Component {
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>
+                <Button onClick={this.ChangeContent.bind(this)}>change content</Button>
+                {this.state.showMasterdetail &&
+                <MasterDetail/>
+                }
+                {!this.state.showMasterdetail &&
                 <Container className="app">
+                    <ul id="meso">
+                        <li className="testclass">
+                            If you or a loved one
+                        </li>
+                        <li>
+                            has been diagnosed with mesothelioma
+                        </li>
+                        <li>
+                            you may be entitled to financial compensation
+                        </li>
+                        <li className="testclass">
+                            ya like Jazz?
+                        </li>
+                        <li>
+                            dlkfjsdlkfjd
+                        </li>
+                    </ul>
+
                     <Row>
                         <Col>
                             {this.state.agList.map((item, index) => {
@@ -157,6 +188,7 @@ class App extends Component {
                         </Modal.Footer>
                     </Modal>
                 </Container>
+                }
 
                 <div>
                     <p>
