@@ -15,12 +15,15 @@ import {
 } from 'react-bootstrap';
 
 import MasterDetail from "./MasterDetail";
+import DetailView from "./DetailView";
+
 
 class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
             showMasterdetail: true,
+            showMasterDetail: true,
             agList: [
                 {
                     title: "ag 1"
@@ -52,6 +55,10 @@ class App extends Component {
     ChangeContent() {
         let {showMasterdetail} = this.state
         this.setState({showMasterdetail: (showMasterdetail) ? false : true})
+    }
+    ChangeContent1() {
+        let {showDetailView} = this.state
+        this.setState({showDetailView: (showDetailView) ? false : true})
     }
 
     render() {
@@ -89,10 +96,17 @@ class App extends Component {
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>
+                <Button onClick={this.ChangeContent1.bind(this)}>DetailView</Button>
+
                 <Button onClick={this.ChangeContent.bind(this)}>change content</Button>
                 {this.state.showMasterdetail &&
-                <MasterDetail/>
+                    <MasterDetail/>
                 }
+                {this.state.showDetailView &&
+                <DetailView changeContent={this.ChangeContent.bind(this)} zhl={"sddffe"}/>
+                }
+
+
                 {!this.state.showMasterdetail &&
                 <Container className="app">
                     <ul id="meso">
