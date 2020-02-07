@@ -18,7 +18,7 @@ class MasterDetail extends Component{
         return(
                 <div>
                     {this.state.data.value.length <= 0 &&
-                    <Button onClick={this.fetchService.bind(this)}>no</Button>
+                    <Button onClick={this.fetchService.bind(this)}>fetch data</Button>
                         }
                     {
                         this.state.data.value.map((item) =>{

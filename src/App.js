@@ -14,6 +14,13 @@ import {
     Row
 } from 'react-bootstrap';
 
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link
+} from "react-router-dom";
+
 import MasterDetail from "./MasterDetail";
 import DetailView from "./DetailView";
 
@@ -64,12 +71,17 @@ class App extends Component {
     render() {
         return (
             <>
+                <Router>
                 <Navbar bg="dark" expand="lg">
                     <Container>
                         <Navbar.Brand href="#home">Speen</Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="mr-auto">
+                                <Link className="nav-link" to="/first">1</Link>
+                                <Link className="nav-link" to="/second">2</Link>
+                                <Link className="nav-link" to="/third">3</Link>
+                                <Link className="nav-link" to="/fourth">4</Link>
                                 <Nav.Link href="#start">Startseite</Nav.Link>
                                 <NavDropdown title="Geschichte" id="basic-nav-dropdown">
                                     <NavDropdown.Item href="#erstes-zeitalter">Erstes Zeitalter</NavDropdown.Item>
@@ -96,120 +108,133 @@ class App extends Component {
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>
-                <Button onClick={this.ChangeContent1.bind(this)}>DetailView</Button>
+                    <Switch>
+                        <Route path="/first">
+                            <>
+                                <Button onClick={this.ChangeContent.bind(this)}>change content</Button>
+                                {!this.state.showMasterdetail &&
+                                <MasterDetail/>
+                                }
+                                {this.state.showMasterdetail &&
+                                <Container className="app">
+                                    <ul id="meso">
+                                        <li className="testclass">
+                                            If you or a loved one
+                                        </li>
+                                        <li>
+                                            has been diagnosed with mesothelioma
+                                        </li>
+                                        <li>
+                                            you may be entitled to financial compensation
+                                        </li>
+                                        <li className="testclass">
+                                            ya like Jazz?
+                                        </li>
+                                        <li>
+                                            dlkfjsdlkfjd
+                                        </li>
+                                    </ul>
 
-                <Button onClick={this.ChangeContent.bind(this)}>change content</Button>
-                {this.state.showMasterdetail &&
-                    <MasterDetail/>
-                }
-                {this.state.showDetailView &&
-                <DetailView changeContent={this.ChangeContent.bind(this)} zhl={"sddffe"}/>
-                }
+                                    <Row>
+                                        <Col>
+                                            {this.state.agList.map((item, index) => {
+                                                return (
+                                                    <dif>{item.title}</dif>
+                                                )
+                                            })
+                                            }
+                                        </Col>
+                                    </Row>
+                                    <Row>
+                                        <Col className="col1">
+                                            <Row>
+                                                <h1>Ein großer Baum...</h1>
+                                                <img
+                                                    src="https://tse3.mm.bing.net/th?id=OIP.vZINCIW4jCLh4U1yfnv8YQHaHa&pid=Api&P=0&w=300&h=300"/>
+                                            </Row>
+                                        </Col>
+                                        <Col className="col2">
+                                            <ul className="liste">
+                                                <li>Ein Baum im Frühling:</li>
+                                                <li><img
+                                                    src="https://tse4.mm.bing.net/th?id=OIP.Yrwc89v2Hkfmlij3Gmqd0QHaFj&pid=Api&P=0&w=215&h=162"/>
+                                                </li>
+                                                <li>Ein Baum im Sommer:</li>
+                                                <li><img
+                                                    src="https://tse3.mm.bing.net/th?id=OIP.vZINCIW4jCLh4U1yfnv8YQHaHa&pid=Api&P=0&w=300&h=300"/>
+                                                </li>
+                                                <li>Ein Baum im Herbst:</li>
+                                                <li><img
+                                                    src="https://tse1.mm.bing.net/th?id=OIP.il_dOWFcSDa7iY3oQvPw2AHaJF&pid=Api&P=0&w=300&h=300"/>
+                                                </li>
+                                                <li>Ein Baum im Winter</li>
+                                                <li><img
+                                                    src="https://tse2.mm.bing.net/th?id=OIP.DdwyUETdN7vskRxwYiR48wHaEz&pid=Api&P=0&w=280&h=182"/>
+                                                </li>
+                                            </ul>
+                                            <p>
+                                                Ich hab leider keine Ahnung von Bäumen, deswegen zeige ich euch Offensichtliches.<br/>
+                                                Leider sehen die ersten beiden Bilder vollkommen gleich aus...
+                                            </p>
+                                        </Col>
+                                    </Row>
 
-
-                {!this.state.showMasterdetail &&
-                <Container className="app">
-                    <ul id="meso">
-                        <li className="testclass">
-                            If you or a loved one
-                        </li>
-                        <li>
-                            has been diagnosed with mesothelioma
-                        </li>
-                        <li>
-                            you may be entitled to financial compensation
-                        </li>
-                        <li className="testclass">
-                            ya like Jazz?
-                        </li>
-                        <li>
-                            dlkfjsdlkfjd
-                        </li>
-                    </ul>
-
-                    <Row>
-                        <Col>
-                            {this.state.agList.map((item, index) => {
-                                return (
-                                    <dif>{item.title}</dif>
-                                )
-                            })
-                            }
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col className="col1">
-                            <Row>
-                                <h1>Ein großer Baum...</h1>
-                                <img
-                                    src="https://tse3.mm.bing.net/th?id=OIP.vZINCIW4jCLh4U1yfnv8YQHaHa&pid=Api&P=0&w=300&h=300"/>
-                            </Row>
-                        </Col>
-                        <Col className="col2">
-                            <ul className="liste">
-                                <li>Ein Baum im Frühling:</li>
-                                <li><img
-                                    src="https://tse4.mm.bing.net/th?id=OIP.Yrwc89v2Hkfmlij3Gmqd0QHaFj&pid=Api&P=0&w=215&h=162"/>
-                                </li>
-                                <li>Ein Baum im Sommer:</li>
-                                <li><img
-                                    src="https://tse3.mm.bing.net/th?id=OIP.vZINCIW4jCLh4U1yfnv8YQHaHa&pid=Api&P=0&w=300&h=300"/>
-                                </li>
-                                <li>Ein Baum im Herbst:</li>
-                                <li><img
-                                    src="https://tse1.mm.bing.net/th?id=OIP.il_dOWFcSDa7iY3oQvPw2AHaJF&pid=Api&P=0&w=300&h=300"/>
-                                </li>
-                                <li>Ein Baum im Winter</li>
-                                <li><img
-                                    src="https://tse2.mm.bing.net/th?id=OIP.DdwyUETdN7vskRxwYiR48wHaEz&pid=Api&P=0&w=280&h=182"/>
-                                </li>
-                            </ul>
-                            <p>
-                                Ich hab leider keine Ahnung von Bäumen, deswegen zeige ich euch Offensichtliches.<br/>
-                                Leider sehen die ersten beiden Bilder vollkommen gleich aus...
-                            </p>
-                        </Col>
-                    </Row>
-
-                    <div style={{height: '1000px'}}/>
+                                    <div style={{height: '1000px'}}/>
 
 
-                    <Modal>
-                        <Modal.Header closeButton>
-                            <Modal.Title>Bitte melde dich an!</Modal.Title>
-                        </Modal.Header>
-                        <Modal.Body>
-                            <InputGroup>
-                                <InputGroup.Prepend>
-                                    <InputGroup.Text>Name</InputGroup.Text>
-                                </InputGroup.Prepend>
-                                <FormControl/>
-                            </InputGroup>
-                            <InputGroup>
-                                <InputGroup.Prepend>
-                                    <InputGroup.Text>Passwort</InputGroup.Text>
-                                </InputGroup.Prepend>
-                                <FormControl type="password"/>
-                            </InputGroup>
-                        </Modal.Body>
-                        <Modal.Footer>
-                            <Button variant="outline-success">
-                                Login
-                            </Button>
-                            <Button variant="danger">
-                                Close
-                            </Button>
-                        </Modal.Footer>
-                    </Modal>
-                </Container>
-                }
+                                    <Modal>
+                                        <Modal.Header closeButton>
+                                            <Modal.Title>Bitte melde dich an!</Modal.Title>
+                                        </Modal.Header>
+                                        <Modal.Body>
+                                            <InputGroup>
+                                                <InputGroup.Prepend>
+                                                    <InputGroup.Text>Name</InputGroup.Text>
+                                                </InputGroup.Prepend>
+                                                <FormControl/>
+                                            </InputGroup>
+                                            <InputGroup>
+                                                <InputGroup.Prepend>
+                                                    <InputGroup.Text>Passwort</InputGroup.Text>
+                                                </InputGroup.Prepend>
+                                                <FormControl type="password"/>
+                                            </InputGroup>
+                                        </Modal.Body>
+                                        <Modal.Footer>
+                                            <Button variant="outline-success">
+                                                Login
+                                            </Button>
+                                            <Button variant="danger">
+                                                Close
+                                            </Button>
+                                        </Modal.Footer>
+                                    </Modal>
+                                </Container>
+                                }
+                            </>
+                        </Route>
+                        <Route path="/second">
+                            <img className="App" src="https://www.ecospaints.net/image/catalog/product/white-color-swatch.png"/>
+                        </Route>
+                        <Route path="/third">
+                            <>
+                                <Button onClick={this.ChangeContent1.bind(this)}>DetailView</Button>
+                                {this.state.showDetailView &&
+                                <DetailView changeContent={this.ChangeContent.bind(this)} zhl={"sddffe"}/>
+                                }
+                                {!this.state.showMasterdetail &&
+                                <MasterDetail/>
+                                }
+                            </>
+                        </Route>
+                        <Route path="/fourth">
+                            <>
+                              4
+                            </>
+                        </Route>
+                    </Switch>
 
-                <div>
-                    <p>
-                        Hallo Welt
-
-                    </p>
-                </div>
+                </Router>
             </>
         );
     }
