@@ -1,0 +1,4007 @@
+[
+    {
+        "school_classes": [
+            {
+                "schoolSubjects": [],
+                "_id": "5e3a93a3ca7f26215b5ed34f",
+                "Name": "11Bi",
+                "createdAt": "2020-02-05T10:06:27.968Z",
+                "updatedAt": "2020-02-05T10:06:27.968Z",
+                "__v": 0,
+                "id": "5e3a93a3ca7f26215b5ed34f"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e3a93a4ca7f26215b5ed350",
+                "Name": "11Ph",
+                "createdAt": "2020-02-05T10:06:28.094Z",
+                "updatedAt": "2020-02-05T10:06:28.094Z",
+                "__v": 0,
+                "id": "5e3a93a4ca7f26215b5ed350"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398af6d0cb04003f294ff4",
+                "Name": "12/1",
+                "createdAt": "2020-02-04T15:17:10.791Z",
+                "updatedAt": "2020-02-04T15:25:50.407Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "id": "5e398af6d0cb04003f294ff4"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398afcd0cb04003f294ff5",
+                "Name": "12/2",
+                "createdAt": "2020-02-04T15:17:16.414Z",
+                "updatedAt": "2020-02-04T15:25:50.407Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "id": "5e398afcd0cb04003f294ff5"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a0cd0cb04003f294fdc",
+                "Name": "6a",
+                "createdAt": "2020-02-04T15:13:16.053Z",
+                "updatedAt": "2020-02-07T00:00:02.221Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca882e966500050fed572",
+                "id": "5e398a0cd0cb04003f294fdc"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a10d0cb04003f294fdd",
+                "Name": "6b",
+                "createdAt": "2020-02-04T15:13:20.744Z",
+                "updatedAt": "2020-02-07T00:00:02.433Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca882e966500050fed574",
+                "id": "5e398a10d0cb04003f294fdd"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a1fd0cb04003f294fe0",
+                "Name": "7a",
+                "createdAt": "2020-02-04T15:13:35.274Z",
+                "updatedAt": "2020-02-07T00:00:03.087Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca883e966500050fed576",
+                "id": "5e398a1fd0cb04003f294fe0"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aa6d0cb04003f294fe4",
+                "Name": "8a",
+                "createdAt": "2020-02-04T15:15:50.167Z",
+                "updatedAt": "2020-02-07T00:00:03.415Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca883e966500050fed579",
+                "id": "5e398aa6d0cb04003f294fe4"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aa9d0cb04003f294fe5",
+                "Name": "8b",
+                "createdAt": "2020-02-04T15:15:53.470Z",
+                "updatedAt": "2020-02-07T00:00:04.075Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca884e966500050fed57b",
+                "id": "5e398aa9d0cb04003f294fe5"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aacd0cb04003f294fe6",
+                "Name": "8c",
+                "createdAt": "2020-02-04T15:15:56.049Z",
+                "updatedAt": "2020-02-07T00:00:04.168Z",
+                "__v": 0,
+                "replacement": "5e3ca884e966500050fed57c",
+                "id": "5e398aacd0cb04003f294fe6"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ab6d0cb04003f294fe8",
+                "Name": "9a",
+                "createdAt": "2020-02-04T15:16:06.542Z",
+                "updatedAt": "2020-02-06T00:00:06.098Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3b5706e966500050fed568",
+                "id": "5e398ab6d0cb04003f294fe8"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ab9d0cb04003f294fe9",
+                "Name": "9b",
+                "createdAt": "2020-02-04T15:16:09.128Z",
+                "updatedAt": "2020-02-07T00:00:04.384Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca884e966500050fed57e",
+                "id": "5e398ab9d0cb04003f294fe9"
+            }
+        ],
+        "teachers": [
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a44202f3003fdbcfeb",
+                "Surname": "Boltze",
+                "createdAt": "2020-02-05T10:15:00.145Z",
+                "updatedAt": "2020-02-05T10:15:00.145Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfeb"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a44202f3003fdbcfec",
+                "Surname": "Böttcher",
+                "createdAt": "2020-02-05T10:15:00.206Z",
+                "updatedAt": "2020-02-05T10:15:00.206Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfec"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a44202f3003fdbcfed",
+                "Surname": "Brauer",
+                "createdAt": "2020-02-05T10:15:00.240Z",
+                "updatedAt": "2020-02-05T10:15:00.240Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfed"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a44202f3003fdbcfee",
+                "Surname": "Busch",
+                "createdAt": "2020-02-05T10:15:00.263Z",
+                "updatedAt": "2020-02-05T10:15:00.263Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfee"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcfef",
+                "Surname": "David",
+                "createdAt": "2020-02-05T10:15:01.066Z",
+                "updatedAt": "2020-02-05T10:15:01.066Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcfef"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcff0",
+                "Surname": "Eggert",
+                "createdAt": "2020-02-05T10:15:01.094Z",
+                "updatedAt": "2020-02-05T10:15:01.094Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff0"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff1",
+                "Surname": "Ehrenberg",
+                "createdAt": "2020-02-05T10:15:01.125Z",
+                "updatedAt": "2020-02-05T10:15:01.125Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff1"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff2",
+                "Surname": "Fuhrmann",
+                "createdAt": "2020-02-05T10:15:01.146Z",
+                "updatedAt": "2020-02-05T10:15:01.146Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff2"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcff3",
+                "Surname": "Gast",
+                "createdAt": "2020-02-05T10:15:01.168Z",
+                "updatedAt": "2020-02-05T10:15:01.168Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff3"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff4",
+                "Surname": "Gleißberg",
+                "createdAt": "2020-02-05T10:15:01.187Z",
+                "updatedAt": "2020-02-05T10:15:01.187Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff4"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff5",
+                "Surname": "Görg",
+                "createdAt": "2020-02-05T10:15:01.205Z",
+                "updatedAt": "2020-02-05T10:15:01.205Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff5"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff6",
+                "Surname": "Jödicke",
+                "createdAt": "2020-02-05T10:15:01.223Z",
+                "updatedAt": "2020-02-05T10:15:01.223Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff6"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcff7",
+                "Surname": "Kühn - Lumm",
+                "createdAt": "2020-02-05T10:15:02.076Z",
+                "updatedAt": "2020-02-05T10:15:02.076Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff7"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcff8",
+                "Surname": "Kühn",
+                "createdAt": "2020-02-05T10:15:02.098Z",
+                "updatedAt": "2020-02-05T10:15:02.098Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff8"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a64202f3003fdbcff9",
+                "Surname": "Sauerbier",
+                "createdAt": "2020-02-05T10:15:02.114Z",
+                "updatedAt": "2020-02-05T10:15:02.114Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff9"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a64202f3003fdbcffa",
+                "Surname": "Scharschuch",
+                "createdAt": "2020-02-05T10:15:02.132Z",
+                "updatedAt": "2020-02-05T10:15:02.132Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffa"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcffb",
+                "Surname": "Schmeißer",
+                "createdAt": "2020-02-05T10:15:02.155Z",
+                "updatedAt": "2020-02-05T10:15:02.155Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffb"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcffc",
+                "Surname": "Schramm",
+                "createdAt": "2020-02-05T10:15:02.173Z",
+                "updatedAt": "2020-02-05T10:15:02.173Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffc"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcffd",
+                "Surname": "Strödter",
+                "createdAt": "2020-02-05T10:15:02.189Z",
+                "updatedAt": "2020-02-05T10:15:02.189Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffd"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a74202f3003fdbcffe",
+                "Surname": "Strotzer",
+                "createdAt": "2020-02-05T10:15:03.075Z",
+                "updatedAt": "2020-02-05T10:15:03.075Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbcffe"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbcfff",
+                "Surname": "Walter",
+                "createdAt": "2020-02-05T10:15:03.091Z",
+                "updatedAt": "2020-02-05T10:15:03.091Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbcfff"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd000",
+                "Surname": "Wiegandt",
+                "createdAt": "2020-02-05T10:15:03.106Z",
+                "updatedAt": "2020-02-05T10:15:03.106Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd000"
+            }
+        ],
+        "absentTeachers": [
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd001",
+                "Surname": "Finke",
+                "createdAt": "2020-02-05T10:15:03.135Z",
+                "updatedAt": "2020-02-05T10:15:03.135Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd001"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd002",
+                "Surname": "Hoffmann",
+                "createdAt": "2020-02-05T10:15:03.153Z",
+                "updatedAt": "2020-02-05T10:15:03.153Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd002"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcff8",
+                "Surname": "Kühn",
+                "createdAt": "2020-02-05T10:15:02.098Z",
+                "updatedAt": "2020-02-05T10:15:02.098Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff8"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a64202f3003fdbcffa",
+                "Surname": "Scharschuch",
+                "createdAt": "2020-02-05T10:15:02.132Z",
+                "updatedAt": "2020-02-05T10:15:02.132Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffa"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd003",
+                "Surname": "Werner",
+                "createdAt": "2020-02-05T10:15:03.181Z",
+                "updatedAt": "2020-02-05T10:15:03.181Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd003"
+            }
+        ],
+        "absentClasses": [
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ac2d0cb04003f294fec",
+                "Name": "10a",
+                "createdAt": "2020-02-04T15:16:18.348Z",
+                "updatedAt": "2020-02-04T15:16:18.348Z",
+                "__v": 0,
+                "id": "5e398ac2d0cb04003f294fec"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ac6d0cb04003f294fed",
+                "Name": "10b",
+                "createdAt": "2020-02-04T15:16:22.207Z",
+                "updatedAt": "2020-02-04T15:16:22.207Z",
+                "__v": 0,
+                "id": "5e398ac6d0cb04003f294fed"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398acad0cb04003f294fee",
+                "Name": "10c",
+                "createdAt": "2020-02-04T15:16:26.686Z",
+                "updatedAt": "2020-02-04T15:16:26.686Z",
+                "__v": 0,
+                "id": "5e398acad0cb04003f294fee"
+            }
+        ],
+        "_id": "5e3a95ac4202f3003fdbd01e",
+        "DatumTitle": "Mittwoch, 5. Februar 2020 ",
+        "Schulname": "Staatliches Gymnasium \"Geschwister Scholl\"",
+        "ErstellungsDatum": "2020-02-04T13:16:00.000Z",
+        "createDate": "2020-02-05",
+        "abwesendLehrer": "Frau Finke, Frau Hoffmann, Frau Kühn, Herr Scharschuch, Frau Werner",
+        "abwesendKlassen": "10a, 10b, 10c",
+        "aenderungLehrer": "Frau Boltze, Frau Böttcher, Herr Brauer, Herr Busch, Herr David, Herr Eggert, Frau Ehrenberg, Frau Fuhrmann, Herr Gast, Frau Gleißberg, Frau Görg, Frau Jödicke, Frau Kühn - Lumm, Frau Kühn, Herr Sauerbier, Herr Scharschuch, Frau Schmeißer, Frau Schramm, Frau Strödter, Herr Strotzer, Frau Walter, Frau Wiegandt",
+        "aenderungKlassen": "11Bi, 11Ph, 12/1, 12/2, 6a, 6b, 7a, 8a, 8b, 8c, 9a, 9b",
+        "aufsichten": [
+            {
+                "aufsichtzeile": [
+                    {
+                        "aufsichtinfo": [
+                            "07:55:  Frühdienst - Frühdienst  -->  Frau Schramm (für Frau Strödter)"
+                        ]
+                    },
+                    {
+                        "aufsichtinfo": [
+                            "09:35:  p1 - Hof 21  -->  Herr Gast (für Herrn Scharschuch)"
+                        ]
+                    },
+                    {
+                        "aufsichtinfo": [
+                            "11:30:  p2 - Haus 1  -->  Frau Jödicke (für Frau Wiegandt)"
+                        ]
+                    },
+                    {
+                        "aufsichtinfo": [
+                            "13:25:  n - Hof 1  -->  Herr Strotzer (für Frau Kühn)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "vertretung": [
+            {
+                "klasse": [
+                    "6a"
+                ],
+                "stunde": [
+                    "1"
+                ],
+                "fach": [
+                    "---"
+                ],
+                "lehrer": [
+                    ""
+                ],
+                "raum": [
+                    ""
+                ],
+                "info": [
+                    "Ma Herr Gast verlegt nach St.3"
+                ]
+            },
+            {
+                "klasse": [
+                    "6a"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    "Ma"
+                ],
+                "lehrer": [
+                    "Herr Gast"
+                ],
+                "raum": [
+                    "311k"
+                ],
+                "info": [
+                    "verlegt von St.1; De Herr Scharschuch fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "6b"
+                ],
+                "stunde": [
+                    "1-2"
+                ],
+                "fach": [
+                    "Sp"
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Fuhrmann",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "th31"
+                ],
+                "info": [
+                    "für Sp Frau Schmeißer "
+                ]
+            },
+            {
+                "klasse": [
+                    "6b"
+                ],
+                "stunde": [
+                    "5"
+                ],
+                "fach": [
+                    "Ma"
+                ],
+                "lehrer": [
+                    "Frau Gleißberg"
+                ],
+                "raum": [
+                    "306k"
+                ],
+                "info": [
+                    "statt Mo (03.02.) St.7; Ge Frau Werner fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "6b"
+                ],
+                "stunde": [
+                    "6"
+                ],
+                "fach": [
+                    {
+                        "_": "MNT",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Wiegandt",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "122k",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ge Frau Werner "
+                ]
+            },
+            {
+                "klasse": [
+                    "6b"
+                ],
+                "stunde": [
+                    "7-8"
+                ],
+                "fach": [
+                    {
+                        "_": "---",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "MNT Frau Hoffmann fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "7a"
+                ],
+                "stunde": [
+                    "7-8"
+                ],
+                "fach": [
+                    "En"
+                ],
+                "lehrer": [
+                    "Frau Görg"
+                ],
+                "raum": [
+                    "121k"
+                ],
+                "info": [
+                    ""
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "1"
+                ],
+                "fach": [
+                    "En"
+                ],
+                "lehrer": [
+                    "Frau Kühn - Lumm"
+                ],
+                "raum": [
+                    {
+                        "_": "213s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "verlegt von St.7; Ch Frau Hoffmann fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    "De"
+                ],
+                "lehrer": [
+                    "Frau Jödicke"
+                ],
+                "raum": [
+                    "312s"
+                ],
+                "info": [
+                    ""
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    {
+                        "_": "Sp",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr Brauer",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "th I",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ku Frau Werner "
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "7"
+                ],
+                "fach": [
+                    "---"
+                ],
+                "lehrer": [
+                    ""
+                ],
+                "raum": [
+                    {
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "En Frau Kühn - Lumm verlegt nach St.1"
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "8"
+                ],
+                "fach": [
+                    "---"
+                ],
+                "lehrer": [
+                    ""
+                ],
+                "raum": [
+                    ""
+                ],
+                "info": [
+                    "En Frau Kühn - Lumm gehalten am Do (30.01.) St.5"
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "1"
+                ],
+                "fach": [
+                    {
+                        "_": "---",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "De Herr Scharschuch fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    "Mu"
+                ],
+                "lehrer": [
+                    "Frau Böttcher"
+                ],
+                "raum": [
+                    "129s"
+                ],
+                "info": [
+                    "verlegt von St.8; Bi Frau Schmeißer verlegt nach St.4"
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "4"
+                ],
+                "fach": [
+                    "Bi"
+                ],
+                "lehrer": [
+                    "Frau Schmeißer"
+                ],
+                "raum": [
+                    "209s"
+                ],
+                "info": [
+                    "verlegt von St.3; Ge Frau Werner fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "7"
+                ],
+                "fach": [
+                    {
+                        "_": "---",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "Ku Frau Werner fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "8"
+                ],
+                "fach": [
+                    "---"
+                ],
+                "lehrer": [
+                    ""
+                ],
+                "raum": [
+                    ""
+                ],
+                "info": [
+                    "Mu Frau Böttcher verlegt nach St.3"
+                ]
+            },
+            {
+                "klasse": [
+                    "8c"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    {
+                        "_": "Gg",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Schramm",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "303s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ma Frau Strödter "
+                ]
+            },
+            {
+                "klasse": [
+                    "8c"
+                ],
+                "stunde": [
+                    "6"
+                ],
+                "fach": [
+                    {
+                        "_": "Ma",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Strödter",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "303s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ch Frau Hoffmann "
+                ]
+            },
+            {
+                "klasse": [
+                    "9a"
+                ],
+                "stunde": [
+                    "6"
+                ],
+                "fach": [
+                    {
+                        "_": "Ma",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr David",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "217s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Sk Frau Kühn "
+                ]
+            },
+            {
+                "klasse": [
+                    "9b"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    "En"
+                ],
+                "lehrer": [
+                    "Frau Kühn - Lumm"
+                ],
+                "raum": [
+                    {
+                        "_": "209s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "statt Do (06.02.) St.6; Ge Frau Werner fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "9b"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    "En"
+                ],
+                "lehrer": [
+                    "Frau Kühn - Lumm"
+                ],
+                "raum": [
+                    {
+                        "_": "209s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    ""
+                ]
+            },
+            {
+                "klasse": [
+                    "11Bi,11Ph/ gs"
+                ],
+                "stunde": [
+                    "7-8"
+                ],
+                "fach": [
+                    "Ge"
+                ],
+                "lehrer": [
+                    {
+                        "_": "(Herr Scharschuch)",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "selbst. (v), Arbeitsauftrag Herr Scharschuch"
+                ]
+            },
+            {
+                "klasse": [
+                    "12/1,12/2/ Bi"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    "Bi"
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Schmeißer",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "211s"
+                ],
+                "info": [
+                    "für Bi Frau Hoffmann "
+                ]
+            }
+        ],
+        "createdAt": "2020-02-05T10:15:08.291Z",
+        "updatedAt": "2020-02-05T10:15:08.341Z",
+        "__v": 0,
+        "replacements": [
+            {
+                "teachers": [
+                    "5e3a95a84202f3003fdbd004"
+                ],
+                "_id": "5e3a95a84202f3003fdbd005",
+                "subject": "---",
+                "room": "",
+                "description": "Ma Herr Gast verlegt nach St.3",
+                "hour": "1",
+                "createdAt": "2020-02-05T10:15:04.099Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a84202f3003fdbd005"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff3"
+                ],
+                "_id": "5e3a95a84202f3003fdbd006",
+                "subject": "Ma",
+                "room": "311k",
+                "description": "verlegt von St.1; De Herr Scharschuch fällt aus",
+                "hour": "3",
+                "createdAt": "2020-02-05T10:15:04.178Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a84202f3003fdbd006"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff2"
+                ],
+                "_id": "5e3a95a84202f3003fdbd007",
+                "subject": "Sp",
+                "room": "th31",
+                "description": "für Sp Frau Schmeißer ",
+                "hour": "1-2",
+                "createdAt": "2020-02-05T10:15:04.232Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a84202f3003fdbd007"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff4"
+                ],
+                "_id": "5e3a95a84202f3003fdbd008",
+                "subject": "Ma",
+                "room": "306k",
+                "description": "statt Mo (03.02.) St.7; Ge Frau Werner fällt aus",
+                "hour": "5",
+                "createdAt": "2020-02-05T10:15:04.288Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a84202f3003fdbd008"
+            },
+            {
+                "teachers": [
+                    "5e3a95a74202f3003fdbd000"
+                ],
+                "_id": "5e3a95a94202f3003fdbd009",
+                "subject": "MNT",
+                "room": "122k",
+                "description": "für Ge Frau Werner ",
+                "hour": "6",
+                "createdAt": "2020-02-05T10:15:05.073Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a94202f3003fdbd009"
+            },
+            {
+                "teachers": [],
+                "_id": "5e3a95a94202f3003fdbd00a",
+                "subject": "---",
+                "room": null,
+                "description": "MNT Frau Hoffmann fällt aus",
+                "hour": "7-8",
+                "createdAt": "2020-02-05T10:15:05.124Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a94202f3003fdbd00a"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff5"
+                ],
+                "_id": "5e3a95a94202f3003fdbd00b",
+                "subject": "En",
+                "room": "121k",
+                "description": "",
+                "hour": "7-8",
+                "createdAt": "2020-02-05T10:15:05.181Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a94202f3003fdbd00b"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcff7"
+                ],
+                "_id": "5e3a95a94202f3003fdbd00c",
+                "subject": "En",
+                "room": "213s",
+                "description": "verlegt von St.7; Ch Frau Hoffmann fällt aus",
+                "hour": "1",
+                "createdAt": "2020-02-05T10:15:05.237Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a94202f3003fdbd00c"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff6"
+                ],
+                "_id": "5e3a95a94202f3003fdbd00d",
+                "subject": "De",
+                "room": "312s",
+                "description": "",
+                "hour": "2",
+                "createdAt": "2020-02-05T10:15:05.296Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a94202f3003fdbd00d"
+            },
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfed"
+                ],
+                "_id": "5e3a95a94202f3003fdbd00e",
+                "subject": "Sp",
+                "room": "th I",
+                "description": "für Ku Frau Werner ",
+                "hour": "3",
+                "createdAt": "2020-02-05T10:15:05.355Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95a94202f3003fdbd00e"
+            },
+            {
+                "teachers": [
+                    "5e3a95a84202f3003fdbd004"
+                ],
+                "_id": "5e3a95aa4202f3003fdbd00f",
+                "subject": "---",
+                "room": null,
+                "description": "En Frau Kühn - Lumm verlegt nach St.1",
+                "hour": "7",
+                "createdAt": "2020-02-05T10:15:06.169Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95aa4202f3003fdbd00f"
+            },
+            {
+                "teachers": [
+                    "5e3a95a84202f3003fdbd004"
+                ],
+                "_id": "5e3a95aa4202f3003fdbd010",
+                "subject": "---",
+                "room": "",
+                "description": "En Frau Kühn - Lumm gehalten am Do (30.01.) St.5",
+                "hour": "8",
+                "createdAt": "2020-02-05T10:15:06.253Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95aa4202f3003fdbd010"
+            },
+            {
+                "teachers": [],
+                "_id": "5e3a95aa4202f3003fdbd011",
+                "subject": "---",
+                "room": null,
+                "description": "De Herr Scharschuch fällt aus",
+                "hour": "1",
+                "createdAt": "2020-02-05T10:15:06.318Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95aa4202f3003fdbd011"
+            },
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfec"
+                ],
+                "_id": "5e3a95aa4202f3003fdbd012",
+                "subject": "Mu",
+                "room": "129s",
+                "description": "verlegt von St.8; Bi Frau Schmeißer verlegt nach St.4",
+                "hour": "3",
+                "createdAt": "2020-02-05T10:15:06.373Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95aa4202f3003fdbd012"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcffb"
+                ],
+                "_id": "5e3a95aa4202f3003fdbd013",
+                "subject": "Bi",
+                "room": "209s",
+                "description": "verlegt von St.3; Ge Frau Werner fällt aus",
+                "hour": "4",
+                "createdAt": "2020-02-05T10:15:06.429Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95aa4202f3003fdbd013"
+            },
+            {
+                "teachers": [],
+                "_id": "5e3a95ab4202f3003fdbd014",
+                "subject": "---",
+                "room": null,
+                "description": "Ku Frau Werner fällt aus",
+                "hour": "7",
+                "createdAt": "2020-02-05T10:15:07.074Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ab4202f3003fdbd014"
+            },
+            {
+                "teachers": [
+                    "5e3a95a84202f3003fdbd004"
+                ],
+                "_id": "5e3a95ab4202f3003fdbd015",
+                "subject": "---",
+                "room": "",
+                "description": "Mu Frau Böttcher verlegt nach St.3",
+                "hour": "8",
+                "createdAt": "2020-02-05T10:15:07.128Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ab4202f3003fdbd015"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcffc"
+                ],
+                "_id": "5e3a95ab4202f3003fdbd016",
+                "subject": "Gg",
+                "room": "303s",
+                "description": "für Ma Frau Strödter ",
+                "hour": "3",
+                "createdAt": "2020-02-05T10:15:07.187Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ab4202f3003fdbd016"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcffd"
+                ],
+                "_id": "5e3a95ab4202f3003fdbd017",
+                "subject": "Ma",
+                "room": "303s",
+                "description": "für Ch Frau Hoffmann ",
+                "hour": "6",
+                "createdAt": "2020-02-05T10:15:07.242Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ab4202f3003fdbd017"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcfef"
+                ],
+                "_id": "5e3a95ab4202f3003fdbd018",
+                "subject": "Ma",
+                "room": "217s",
+                "description": "für Sk Frau Kühn ",
+                "hour": "6",
+                "createdAt": "2020-02-05T10:15:07.295Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ab4202f3003fdbd018"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcff7"
+                ],
+                "_id": "5e3a95ac4202f3003fdbd019",
+                "subject": "En",
+                "room": "209s",
+                "description": "statt Do (06.02.) St.6; Ge Frau Werner fällt aus",
+                "hour": "2",
+                "createdAt": "2020-02-05T10:15:08.067Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ac4202f3003fdbd019"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcff7"
+                ],
+                "_id": "5e3a95ac4202f3003fdbd01a",
+                "subject": "En",
+                "room": "209s",
+                "description": "",
+                "hour": "3",
+                "createdAt": "2020-02-05T10:15:08.131Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ac4202f3003fdbd01a"
+            },
+            {
+                "teachers": [
+                    "5e3a95ac4202f3003fdbd01b"
+                ],
+                "_id": "5e3a95ac4202f3003fdbd01c",
+                "subject": "Ge",
+                "room": null,
+                "description": "selbst. (v), Arbeitsauftrag Herr Scharschuch",
+                "hour": "7-8",
+                "createdAt": "2020-02-05T10:15:08.194Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ac4202f3003fdbd01c"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcffb"
+                ],
+                "_id": "5e3a95ac4202f3003fdbd01d",
+                "subject": "Bi",
+                "room": "211s",
+                "description": "für Bi Frau Hoffmann ",
+                "hour": "3",
+                "createdAt": "2020-02-05T10:15:08.246Z",
+                "updatedAt": "2020-02-05T10:15:08.324Z",
+                "__v": 0,
+                "representationPlan": "5e3a95ac4202f3003fdbd01e",
+                "id": "5e3a95ac4202f3003fdbd01d"
+            }
+        ],
+        "id": "5e3a95ac4202f3003fdbd01e"
+    },
+    {
+        "school_classes": [
+            {
+                "schoolSubjects": [],
+                "_id": "5e398af6d0cb04003f294ff4",
+                "Name": "12/1",
+                "createdAt": "2020-02-04T15:17:10.791Z",
+                "updatedAt": "2020-02-04T15:25:50.407Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "id": "5e398af6d0cb04003f294ff4"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398afcd0cb04003f294ff5",
+                "Name": "12/2",
+                "createdAt": "2020-02-04T15:17:16.414Z",
+                "updatedAt": "2020-02-04T15:25:50.407Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "id": "5e398afcd0cb04003f294ff5"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e3989e9d0cb04003f294fd8",
+                "Name": "5a",
+                "createdAt": "2020-02-04T15:12:41.449Z",
+                "updatedAt": "2020-02-06T00:00:03.074Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3b5702e966500050fed558",
+                "id": "5e3989e9d0cb04003f294fd8"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a0cd0cb04003f294fdc",
+                "Name": "6a",
+                "createdAt": "2020-02-04T15:13:16.053Z",
+                "updatedAt": "2020-02-07T00:00:02.221Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca882e966500050fed572",
+                "id": "5e398a0cd0cb04003f294fdc"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a10d0cb04003f294fdd",
+                "Name": "6b",
+                "createdAt": "2020-02-04T15:13:20.744Z",
+                "updatedAt": "2020-02-07T00:00:02.433Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca882e966500050fed574",
+                "id": "5e398a10d0cb04003f294fdd"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a1fd0cb04003f294fe0",
+                "Name": "7a",
+                "createdAt": "2020-02-04T15:13:35.274Z",
+                "updatedAt": "2020-02-07T00:00:03.087Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca883e966500050fed576",
+                "id": "5e398a1fd0cb04003f294fe0"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a24d0cb04003f294fe1",
+                "Name": "7b",
+                "createdAt": "2020-02-04T15:13:40.198Z",
+                "updatedAt": "2020-02-07T00:00:03.184Z",
+                "__v": 0,
+                "replacement": "5e3ca883e966500050fed577",
+                "id": "5e398a24d0cb04003f294fe1"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aa6d0cb04003f294fe4",
+                "Name": "8a",
+                "createdAt": "2020-02-04T15:15:50.167Z",
+                "updatedAt": "2020-02-07T00:00:03.415Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca883e966500050fed579",
+                "id": "5e398aa6d0cb04003f294fe4"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aa9d0cb04003f294fe5",
+                "Name": "8b",
+                "createdAt": "2020-02-04T15:15:53.470Z",
+                "updatedAt": "2020-02-07T00:00:04.075Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca884e966500050fed57b",
+                "id": "5e398aa9d0cb04003f294fe5"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aacd0cb04003f294fe6",
+                "Name": "8c",
+                "createdAt": "2020-02-04T15:15:56.049Z",
+                "updatedAt": "2020-02-07T00:00:04.168Z",
+                "__v": 0,
+                "replacement": "5e3ca884e966500050fed57c",
+                "id": "5e398aacd0cb04003f294fe6"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ab6d0cb04003f294fe8",
+                "Name": "9a",
+                "createdAt": "2020-02-04T15:16:06.542Z",
+                "updatedAt": "2020-02-06T00:00:06.098Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3b5706e966500050fed568",
+                "id": "5e398ab6d0cb04003f294fe8"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ab9d0cb04003f294fe9",
+                "Name": "9b",
+                "createdAt": "2020-02-04T15:16:09.128Z",
+                "updatedAt": "2020-02-07T00:00:04.384Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca884e966500050fed57e",
+                "id": "5e398ab9d0cb04003f294fe9"
+            }
+        ],
+        "teachers": [
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a44202f3003fdbcfec",
+                "Surname": "Böttcher",
+                "createdAt": "2020-02-05T10:15:00.206Z",
+                "updatedAt": "2020-02-05T10:15:00.206Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfec"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a44202f3003fdbcfed",
+                "Surname": "Brauer",
+                "createdAt": "2020-02-05T10:15:00.240Z",
+                "updatedAt": "2020-02-05T10:15:00.240Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfed"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3b5700e966500050fed551",
+                "Surname": "Breier",
+                "createdAt": "2020-02-06T00:00:00.155Z",
+                "updatedAt": "2020-02-06T00:00:00.155Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5700e966500050fed551"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a44202f3003fdbcfee",
+                "Surname": "Busch",
+                "createdAt": "2020-02-05T10:15:00.263Z",
+                "updatedAt": "2020-02-05T10:15:00.263Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfee"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcfef",
+                "Surname": "David",
+                "createdAt": "2020-02-05T10:15:01.066Z",
+                "updatedAt": "2020-02-05T10:15:01.066Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcfef"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcff0",
+                "Surname": "Eggert",
+                "createdAt": "2020-02-05T10:15:01.094Z",
+                "updatedAt": "2020-02-05T10:15:01.094Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff0"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff1",
+                "Surname": "Ehrenberg",
+                "createdAt": "2020-02-05T10:15:01.125Z",
+                "updatedAt": "2020-02-05T10:15:01.125Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff1"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3b5700e966500050fed552",
+                "Surname": "Erbricht",
+                "createdAt": "2020-02-06T00:00:00.223Z",
+                "updatedAt": "2020-02-06T00:00:00.223Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5700e966500050fed552"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcff3",
+                "Surname": "Gast",
+                "createdAt": "2020-02-05T10:15:01.168Z",
+                "updatedAt": "2020-02-05T10:15:01.168Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff3"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff5",
+                "Surname": "Görg",
+                "createdAt": "2020-02-05T10:15:01.205Z",
+                "updatedAt": "2020-02-05T10:15:01.205Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff5"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd002",
+                "Surname": "Hoffmann",
+                "createdAt": "2020-02-05T10:15:03.153Z",
+                "updatedAt": "2020-02-05T10:15:03.153Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd002"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3b5701e966500050fed553",
+                "Surname": "Jahn",
+                "createdAt": "2020-02-06T00:00:01.078Z",
+                "updatedAt": "2020-02-06T00:00:01.078Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5701e966500050fed553"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff6",
+                "Surname": "Jödicke",
+                "createdAt": "2020-02-05T10:15:01.223Z",
+                "updatedAt": "2020-02-05T10:15:01.223Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff6"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcff7",
+                "Surname": "Kühn - Lumm",
+                "createdAt": "2020-02-05T10:15:02.076Z",
+                "updatedAt": "2020-02-05T10:15:02.076Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff7"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3b5701e966500050fed554",
+                "Surname": "Roßmann",
+                "createdAt": "2020-02-06T00:00:01.114Z",
+                "updatedAt": "2020-02-06T00:00:01.114Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5701e966500050fed554"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a64202f3003fdbcff9",
+                "Surname": "Sauerbier",
+                "createdAt": "2020-02-05T10:15:02.114Z",
+                "updatedAt": "2020-02-05T10:15:02.114Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff9"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcffb",
+                "Surname": "Schmeißer",
+                "createdAt": "2020-02-05T10:15:02.155Z",
+                "updatedAt": "2020-02-05T10:15:02.155Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffb"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcffc",
+                "Surname": "Schramm",
+                "createdAt": "2020-02-05T10:15:02.173Z",
+                "updatedAt": "2020-02-05T10:15:02.173Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffc"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcffd",
+                "Surname": "Strödter",
+                "createdAt": "2020-02-05T10:15:02.189Z",
+                "updatedAt": "2020-02-05T10:15:02.189Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffd"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3b5701e966500050fed555",
+                "Surname": "Wacker",
+                "createdAt": "2020-02-06T00:00:01.258Z",
+                "updatedAt": "2020-02-06T00:00:01.258Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5701e966500050fed555"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbcfff",
+                "Surname": "Walter",
+                "createdAt": "2020-02-05T10:15:03.091Z",
+                "updatedAt": "2020-02-05T10:15:03.091Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbcfff"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd000",
+                "Surname": "Wiegandt",
+                "createdAt": "2020-02-05T10:15:03.106Z",
+                "updatedAt": "2020-02-05T10:15:03.106Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd000"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3b5702e966500050fed556",
+                "Surname": "Zenker",
+                "createdAt": "2020-02-06T00:00:02.071Z",
+                "updatedAt": "2020-02-06T00:00:02.071Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5702e966500050fed556"
+            }
+        ],
+        "absentTeachers": [
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd001",
+                "Surname": "Finke",
+                "createdAt": "2020-02-05T10:15:03.135Z",
+                "updatedAt": "2020-02-05T10:15:03.135Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd001"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd002",
+                "Surname": "Hoffmann",
+                "createdAt": "2020-02-05T10:15:03.153Z",
+                "updatedAt": "2020-02-05T10:15:03.153Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd002"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcff8",
+                "Surname": "Kühn",
+                "createdAt": "2020-02-05T10:15:02.098Z",
+                "updatedAt": "2020-02-05T10:15:02.098Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff8"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a64202f3003fdbcffa",
+                "Surname": "Scharschuch",
+                "createdAt": "2020-02-05T10:15:02.132Z",
+                "updatedAt": "2020-02-05T10:15:02.132Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffa"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd003",
+                "Surname": "Werner",
+                "createdAt": "2020-02-05T10:15:03.181Z",
+                "updatedAt": "2020-02-05T10:15:03.181Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd003"
+            }
+        ],
+        "absentClasses": [
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ac2d0cb04003f294fec",
+                "Name": "10a",
+                "createdAt": "2020-02-04T15:16:18.348Z",
+                "updatedAt": "2020-02-04T15:16:18.348Z",
+                "__v": 0,
+                "id": "5e398ac2d0cb04003f294fec"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ac6d0cb04003f294fed",
+                "Name": "10b",
+                "createdAt": "2020-02-04T15:16:22.207Z",
+                "updatedAt": "2020-02-04T15:16:22.207Z",
+                "__v": 0,
+                "id": "5e398ac6d0cb04003f294fed"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398acad0cb04003f294fee",
+                "Name": "10c",
+                "createdAt": "2020-02-04T15:16:26.686Z",
+                "updatedAt": "2020-02-04T15:16:26.686Z",
+                "__v": 0,
+                "id": "5e398acad0cb04003f294fee"
+            }
+        ],
+        "_id": "5e3b5707e966500050fed56f",
+        "DatumTitle": "Donnerstag, 6. Februar 2020 ",
+        "Schulname": "Staatliches Gymnasium \"Geschwister Scholl\"",
+        "ErstellungsDatum": "2020-02-05T09:24:00.000Z",
+        "createDate": "2020-02-06",
+        "abwesendLehrer": "Frau Finke, Frau Hoffmann, Frau Kühn, Herr Scharschuch, Frau Werner",
+        "abwesendKlassen": "10a, 10b, 10c",
+        "aenderungLehrer": "Frau Böttcher, Herr Brauer, Frau Breier, Herr Busch, Herr David, Herr Eggert, Frau Ehrenberg, Herr Erbricht, Herr Gast, Frau Görg, Frau Hoffmann, Frau Jahn, Frau Jödicke, Frau Kühn - Lumm, Frau Roßmann, Herr Sauerbier, Frau Schmeißer, Frau Schramm, Frau Strödter, Herr Wacker, Frau Walter, Frau Wiegandt, Herr Zenker",
+        "aenderungKlassen": "12/1, 12/2, 5a, 6a, 6b, 7a, 7b, 8a, 8b, 8c, 9a, 9b",
+        "aufsichten": [
+            {
+                "aufsichtzeile": [
+                    {
+                        "aufsichtinfo": [
+                            "09:35:  p1 - Hof 1  -->  Frau Schmeißer (für Frau Breier)"
+                        ]
+                    },
+                    {
+                        "aufsichtinfo": [
+                            "09:35:  p1 - Hof 22  -->  Herr Zenker (für Frau Hoffmann)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "vertretung": [
+            {
+                "klasse": [
+                    "5a"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    {
+                        "_": "MNT",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Böttcher",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "208k"
+                ],
+                "info": [
+                    "für En Frau Görg "
+                ]
+            },
+            {
+                "klasse": [
+                    "5a"
+                ],
+                "stunde": [
+                    "4"
+                ],
+                "fach": [
+                    "MNT"
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Böttcher",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "208k"
+                ],
+                "info": [
+                    "für MNT Frau Hoffmann "
+                ]
+            },
+            {
+                "klasse": [
+                    "6a"
+                ],
+                "stunde": [
+                    "1-2"
+                ],
+                "fach": [
+                    "Ku"
+                ],
+                "lehrer": [
+                    "Herr Gast"
+                ],
+                "raum": [
+                    "122k"
+                ],
+                "info": [
+                    "statt Mi (05.02.) St.7-8; De Herr Scharschuch fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "6b"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    {
+                        "_": "MNT",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Wiegandt",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "122k"
+                ],
+                "info": [
+                    "für Ku Frau Roßmann "
+                ]
+            },
+            {
+                "klasse": [
+                    "7a"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    {
+                        "_": "En",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Görg",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "121k",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Bi Frau Hoffmann "
+                ]
+            },
+            {
+                "klasse": [
+                    "7b"
+                ],
+                "stunde": [
+                    "4"
+                ],
+                "fach": [
+                    {
+                        "_": "De",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Ehrenberg",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "209k",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "Bi Frau Wiegandt verlegt nach St.5"
+                ]
+            },
+            {
+                "klasse": [
+                    "7b"
+                ],
+                "stunde": [
+                    "5"
+                ],
+                "fach": [
+                    "Bi"
+                ],
+                "lehrer": [
+                    "Frau Wiegandt"
+                ],
+                "raum": [
+                    "205k"
+                ],
+                "info": [
+                    "verlegt von St.4; Ku Frau Werner fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "7b"
+                ],
+                "stunde": [
+                    "6"
+                ],
+                "fach": [
+                    {
+                        "_": "Bi",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Wiegandt",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "205k",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ku Frau Werner "
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "1"
+                ],
+                "fach": [
+                    {
+                        "_": "Ch",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Walter",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "121s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ge Frau Werner "
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    {
+                        "_": "Ch",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Walter",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "121s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Gg Frau Schramm "
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    {
+                        "_": "Gg",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Schramm",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "303s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "Et Frau Breier verlegt nach St.6"
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "6"
+                ],
+                "fach": [
+                    "Et"
+                ],
+                "lehrer": [
+                    "Frau Breier"
+                ],
+                "raum": [
+                    "218s"
+                ],
+                "info": [
+                    "verlegt von St.3; Ch Frau Hoffmann fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    {
+                        "_": "Sp",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr Brauer",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "th I",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ge Frau Werner "
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "4"
+                ],
+                "fach": [
+                    {
+                        "_": "Sp",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr Brauer",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "th I",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Et Frau Breier "
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "6"
+                ],
+                "fach": [
+                    "Ch"
+                ],
+                "lehrer": [
+                    "Frau Walter"
+                ],
+                "raum": [
+                    "121s"
+                ],
+                "info": [
+                    "statt Fr (07.02.) St.4; De Herr Scharschuch fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "8c"
+                ],
+                "stunde": [
+                    "4"
+                ],
+                "fach": [
+                    "Ma"
+                ],
+                "lehrer": [
+                    "Frau Strödter"
+                ],
+                "raum": [
+                    {
+                        "_": "216s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    ""
+                ]
+            },
+            {
+                "klasse": [
+                    "9a"
+                ],
+                "stunde": [
+                    "4"
+                ],
+                "fach": [
+                    {
+                        "_": "Ma",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr David",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "217s"
+                ],
+                "info": [
+                    "für Ge Frau Werner "
+                ]
+            },
+            {
+                "klasse": [
+                    "9a"
+                ],
+                "stunde": [
+                    "6"
+                ],
+                "fach": [
+                    {
+                        "_": "Sp",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr Brauer",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "th I",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ma Herr David "
+                ]
+            },
+            {
+                "klasse": [
+                    "9b"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    "Ma"
+                ],
+                "lehrer": [
+                    "Herr Busch"
+                ],
+                "raum": [
+                    {
+                        "_": "306s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    ""
+                ]
+            },
+            {
+                "klasse": [
+                    "9b"
+                ],
+                "stunde": [
+                    "6"
+                ],
+                "fach": [
+                    "---"
+                ],
+                "lehrer": [
+                    ""
+                ],
+                "raum": [
+                    {
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "En Frau Kühn - Lumm gehalten am Mi (05.02.) St.2"
+                ]
+            },
+            {
+                "klasse": [
+                    "12/1,12/2/ Deu1"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    "De"
+                ],
+                "lehrer": [
+                    {
+                        "_": "(Herr Scharschuch)",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "311s"
+                ],
+                "info": [
+                    "selbst. (v), Arbeitsauftrag Herr Scharschuch, Abgabe der Arbeiten bei Frau Strödter"
+                ]
+            },
+            {
+                "klasse": [
+                    "12/1,12/2/ Bi"
+                ],
+                "stunde": [
+                    "5"
+                ],
+                "fach": [
+                    "Bi"
+                ],
+                "lehrer": [
+                    {
+                        "_": "(Frau Hoffmann)",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "211s"
+                ],
+                "info": [
+                    "selbst. (v), Arbeitsauftrag Frau Schmeißer"
+                ]
+            }
+        ],
+        "createdAt": "2020-02-06T00:00:07.105Z",
+        "updatedAt": "2020-02-06T00:00:07.149Z",
+        "__v": 0,
+        "replacements": [
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfec"
+                ],
+                "_id": "5e3b5702e966500050fed557",
+                "subject": "MNT",
+                "room": "208k",
+                "description": "für En Frau Görg ",
+                "hour": "3",
+                "createdAt": "2020-02-06T00:00:02.173Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5702e966500050fed557"
+            },
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfec"
+                ],
+                "_id": "5e3b5702e966500050fed558",
+                "subject": "MNT",
+                "room": "208k",
+                "description": "für MNT Frau Hoffmann ",
+                "hour": "4",
+                "createdAt": "2020-02-06T00:00:02.280Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5702e966500050fed558"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff3"
+                ],
+                "_id": "5e3b5703e966500050fed559",
+                "subject": "Ku",
+                "room": "122k",
+                "description": "statt Mi (05.02.) St.7-8; De Herr Scharschuch fällt aus",
+                "hour": "1-2",
+                "createdAt": "2020-02-06T00:00:03.127Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5703e966500050fed559"
+            },
+            {
+                "teachers": [
+                    "5e3a95a74202f3003fdbd000"
+                ],
+                "_id": "5e3b5703e966500050fed55a",
+                "subject": "MNT",
+                "room": "122k",
+                "description": "für Ku Frau Roßmann ",
+                "hour": "3",
+                "createdAt": "2020-02-06T00:00:03.217Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5703e966500050fed55a"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff5"
+                ],
+                "_id": "5e3b5703e966500050fed55b",
+                "subject": "En",
+                "room": "121k",
+                "description": "für Bi Frau Hoffmann ",
+                "hour": "3",
+                "createdAt": "2020-02-06T00:00:03.310Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5703e966500050fed55b"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff1"
+                ],
+                "_id": "5e3b5703e966500050fed55c",
+                "subject": "De",
+                "room": "209k",
+                "description": "Bi Frau Wiegandt verlegt nach St.5",
+                "hour": "4",
+                "createdAt": "2020-02-06T00:00:03.402Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5703e966500050fed55c"
+            },
+            {
+                "teachers": [
+                    "5e3a95a74202f3003fdbd000"
+                ],
+                "_id": "5e3b5703e966500050fed55d",
+                "subject": "Bi",
+                "room": "205k",
+                "description": "verlegt von St.4; Ku Frau Werner fällt aus",
+                "hour": "5",
+                "createdAt": "2020-02-06T00:00:03.505Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5703e966500050fed55d"
+            },
+            {
+                "teachers": [
+                    "5e3a95a74202f3003fdbd000"
+                ],
+                "_id": "5e3b5704e966500050fed55e",
+                "subject": "Bi",
+                "room": "205k",
+                "description": "für Ku Frau Werner ",
+                "hour": "6",
+                "createdAt": "2020-02-06T00:00:04.097Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5704e966500050fed55e"
+            },
+            {
+                "teachers": [
+                    "5e3a95a74202f3003fdbcfff"
+                ],
+                "_id": "5e3b5704e966500050fed55f",
+                "subject": "Ch",
+                "room": "121s",
+                "description": "für Ge Frau Werner ",
+                "hour": "1",
+                "createdAt": "2020-02-06T00:00:04.157Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5704e966500050fed55f"
+            },
+            {
+                "teachers": [
+                    "5e3a95a74202f3003fdbcfff"
+                ],
+                "_id": "5e3b5704e966500050fed560",
+                "subject": "Ch",
+                "room": "121s",
+                "description": "für Gg Frau Schramm ",
+                "hour": "2",
+                "createdAt": "2020-02-06T00:00:04.217Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5704e966500050fed560"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcffc"
+                ],
+                "_id": "5e3b5704e966500050fed561",
+                "subject": "Gg",
+                "room": "303s",
+                "description": "Et Frau Breier verlegt nach St.6",
+                "hour": "3",
+                "createdAt": "2020-02-06T00:00:04.275Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5704e966500050fed561"
+            },
+            {
+                "teachers": [
+                    "5e3b5700e966500050fed551"
+                ],
+                "_id": "5e3b5704e966500050fed562",
+                "subject": "Et",
+                "room": "218s",
+                "description": "verlegt von St.3; Ch Frau Hoffmann fällt aus",
+                "hour": "6",
+                "createdAt": "2020-02-06T00:00:04.334Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5704e966500050fed562"
+            },
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfed"
+                ],
+                "_id": "5e3b5705e966500050fed563",
+                "subject": "Sp",
+                "room": "th I",
+                "description": "für Ge Frau Werner ",
+                "hour": "3",
+                "createdAt": "2020-02-06T00:00:05.090Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5705e966500050fed563"
+            },
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfed"
+                ],
+                "_id": "5e3b5705e966500050fed564",
+                "subject": "Sp",
+                "room": "th I",
+                "description": "für Et Frau Breier ",
+                "hour": "4",
+                "createdAt": "2020-02-06T00:00:05.146Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5705e966500050fed564"
+            },
+            {
+                "teachers": [
+                    "5e3a95a74202f3003fdbcfff"
+                ],
+                "_id": "5e3b5705e966500050fed565",
+                "subject": "Ch",
+                "room": "121s",
+                "description": "statt Fr (07.02.) St.4; De Herr Scharschuch fällt aus",
+                "hour": "6",
+                "createdAt": "2020-02-06T00:00:05.201Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5705e966500050fed565"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcffd"
+                ],
+                "_id": "5e3b5705e966500050fed566",
+                "subject": "Ma",
+                "room": "216s",
+                "description": "",
+                "hour": "4",
+                "createdAt": "2020-02-06T00:00:05.258Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5705e966500050fed566"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcfef"
+                ],
+                "_id": "5e3b5705e966500050fed567",
+                "subject": "Ma",
+                "room": "217s",
+                "description": "für Ge Frau Werner ",
+                "hour": "4",
+                "createdAt": "2020-02-06T00:00:05.317Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5705e966500050fed567"
+            },
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfed"
+                ],
+                "_id": "5e3b5706e966500050fed568",
+                "subject": "Sp",
+                "room": "th I",
+                "description": "für Ma Herr David ",
+                "hour": "6",
+                "createdAt": "2020-02-06T00:00:06.075Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5706e966500050fed568"
+            },
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfee"
+                ],
+                "_id": "5e3b5706e966500050fed569",
+                "subject": "Ma",
+                "room": "306s",
+                "description": "",
+                "hour": "2",
+                "createdAt": "2020-02-06T00:00:06.143Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5706e966500050fed569"
+            },
+            {
+                "teachers": [
+                    "5e3a95a84202f3003fdbd004"
+                ],
+                "_id": "5e3b5706e966500050fed56a",
+                "subject": "---",
+                "room": null,
+                "description": "En Frau Kühn - Lumm gehalten am Mi (05.02.) St.2",
+                "hour": "6",
+                "createdAt": "2020-02-06T00:00:06.213Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5706e966500050fed56a"
+            },
+            {
+                "teachers": [
+                    "5e3a95ac4202f3003fdbd01b"
+                ],
+                "_id": "5e3b5706e966500050fed56c",
+                "subject": "De",
+                "room": "311s",
+                "description": "selbst. (v), Arbeitsauftrag Herr Scharschuch, Abgabe der Arbeiten bei Frau Strödter",
+                "hour": "3",
+                "createdAt": "2020-02-06T00:00:06.290Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5706e966500050fed56c"
+            },
+            {
+                "teachers": [
+                    "5e3b5706e966500050fed56d"
+                ],
+                "_id": "5e3b5707e966500050fed56e",
+                "subject": "Bi",
+                "room": "211s",
+                "description": "selbst. (v), Arbeitsauftrag Frau Schmeißer",
+                "hour": "5",
+                "createdAt": "2020-02-06T00:00:07.052Z",
+                "updatedAt": "2020-02-06T00:00:07.133Z",
+                "__v": 0,
+                "representationPlan": "5e3b5707e966500050fed56f",
+                "id": "5e3b5707e966500050fed56e"
+            }
+        ],
+        "id": "5e3b5707e966500050fed56f"
+    },
+    {
+        "school_classes": [
+            {
+                "schoolSubjects": [],
+                "_id": "5e398afcd0cb04003f294ff5",
+                "Name": "12/2",
+                "createdAt": "2020-02-04T15:17:16.414Z",
+                "updatedAt": "2020-02-04T15:25:50.407Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "id": "5e398afcd0cb04003f294ff5"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a0cd0cb04003f294fdc",
+                "Name": "6a",
+                "createdAt": "2020-02-04T15:13:16.053Z",
+                "updatedAt": "2020-02-07T00:00:02.221Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca882e966500050fed572",
+                "id": "5e398a0cd0cb04003f294fdc"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a10d0cb04003f294fdd",
+                "Name": "6b",
+                "createdAt": "2020-02-04T15:13:20.744Z",
+                "updatedAt": "2020-02-07T00:00:02.433Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca882e966500050fed574",
+                "id": "5e398a10d0cb04003f294fdd"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a1fd0cb04003f294fe0",
+                "Name": "7a",
+                "createdAt": "2020-02-04T15:13:35.274Z",
+                "updatedAt": "2020-02-07T00:00:03.087Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca883e966500050fed576",
+                "id": "5e398a1fd0cb04003f294fe0"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398a24d0cb04003f294fe1",
+                "Name": "7b",
+                "createdAt": "2020-02-04T15:13:40.198Z",
+                "updatedAt": "2020-02-07T00:00:03.184Z",
+                "__v": 0,
+                "replacement": "5e3ca883e966500050fed577",
+                "id": "5e398a24d0cb04003f294fe1"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aa6d0cb04003f294fe4",
+                "Name": "8a",
+                "createdAt": "2020-02-04T15:15:50.167Z",
+                "updatedAt": "2020-02-07T00:00:03.415Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca883e966500050fed579",
+                "id": "5e398aa6d0cb04003f294fe4"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aa9d0cb04003f294fe5",
+                "Name": "8b",
+                "createdAt": "2020-02-04T15:15:53.470Z",
+                "updatedAt": "2020-02-07T00:00:04.075Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca884e966500050fed57b",
+                "id": "5e398aa9d0cb04003f294fe5"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398aacd0cb04003f294fe6",
+                "Name": "8c",
+                "createdAt": "2020-02-04T15:15:56.049Z",
+                "updatedAt": "2020-02-07T00:00:04.168Z",
+                "__v": 0,
+                "replacement": "5e3ca884e966500050fed57c",
+                "id": "5e398aacd0cb04003f294fe6"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ab9d0cb04003f294fe9",
+                "Name": "9b",
+                "createdAt": "2020-02-04T15:16:09.128Z",
+                "updatedAt": "2020-02-07T00:00:04.384Z",
+                "__v": 0,
+                "vertretungsplan": "5e39881cd0cb04003f294fd7",
+                "replacement": "5e3ca884e966500050fed57e",
+                "id": "5e398ab9d0cb04003f294fe9"
+            }
+        ],
+        "teachers": [
+            {
+                "gender": "Frau",
+                "_id": "5e3b5700e966500050fed551",
+                "Surname": "Breier",
+                "createdAt": "2020-02-06T00:00:00.155Z",
+                "updatedAt": "2020-02-06T00:00:00.155Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5700e966500050fed551"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a44202f3003fdbcfee",
+                "Surname": "Busch",
+                "createdAt": "2020-02-05T10:15:00.263Z",
+                "updatedAt": "2020-02-05T10:15:00.263Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfee"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcfef",
+                "Surname": "David",
+                "createdAt": "2020-02-05T10:15:01.066Z",
+                "updatedAt": "2020-02-05T10:15:01.066Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcfef"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcff0",
+                "Surname": "Eggert",
+                "createdAt": "2020-02-05T10:15:01.094Z",
+                "updatedAt": "2020-02-05T10:15:01.094Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff0"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff1",
+                "Surname": "Ehrenberg",
+                "createdAt": "2020-02-05T10:15:01.125Z",
+                "updatedAt": "2020-02-05T10:15:01.125Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff1"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a54202f3003fdbcff3",
+                "Surname": "Gast",
+                "createdAt": "2020-02-05T10:15:01.168Z",
+                "updatedAt": "2020-02-05T10:15:01.168Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff3"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff4",
+                "Surname": "Gleißberg",
+                "createdAt": "2020-02-05T10:15:01.187Z",
+                "updatedAt": "2020-02-05T10:15:01.187Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff4"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff5",
+                "Surname": "Görg",
+                "createdAt": "2020-02-05T10:15:01.205Z",
+                "updatedAt": "2020-02-05T10:15:01.205Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff5"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3b5701e966500050fed553",
+                "Surname": "Jahn",
+                "createdAt": "2020-02-06T00:00:01.078Z",
+                "updatedAt": "2020-02-06T00:00:01.078Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5701e966500050fed553"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff6",
+                "Surname": "Jödicke",
+                "createdAt": "2020-02-05T10:15:01.223Z",
+                "updatedAt": "2020-02-05T10:15:01.223Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff6"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcff7",
+                "Surname": "Kühn - Lumm",
+                "createdAt": "2020-02-05T10:15:02.076Z",
+                "updatedAt": "2020-02-05T10:15:02.076Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff7"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a64202f3003fdbcff9",
+                "Surname": "Sauerbier",
+                "createdAt": "2020-02-05T10:15:02.114Z",
+                "updatedAt": "2020-02-05T10:15:02.114Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff9"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcffd",
+                "Surname": "Strödter",
+                "createdAt": "2020-02-05T10:15:02.189Z",
+                "updatedAt": "2020-02-05T10:15:02.189Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffd"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a74202f3003fdbcffe",
+                "Surname": "Strotzer",
+                "createdAt": "2020-02-05T10:15:03.075Z",
+                "updatedAt": "2020-02-05T10:15:03.075Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbcffe"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbcfff",
+                "Surname": "Walter",
+                "createdAt": "2020-02-05T10:15:03.091Z",
+                "updatedAt": "2020-02-05T10:15:03.091Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbcfff"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd003",
+                "Surname": "Werner",
+                "createdAt": "2020-02-05T10:15:03.181Z",
+                "updatedAt": "2020-02-05T10:15:03.181Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd003"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd000",
+                "Surname": "Wiegandt",
+                "createdAt": "2020-02-05T10:15:03.106Z",
+                "updatedAt": "2020-02-05T10:15:03.106Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd000"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3b5702e966500050fed556",
+                "Surname": "Zenker",
+                "createdAt": "2020-02-06T00:00:02.071Z",
+                "updatedAt": "2020-02-06T00:00:02.071Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3b5702e966500050fed556"
+            }
+        ],
+        "absentTeachers": [
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a44202f3003fdbcfec",
+                "Surname": "Böttcher",
+                "createdAt": "2020-02-05T10:15:00.206Z",
+                "updatedAt": "2020-02-05T10:15:00.206Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a44202f3003fdbcfec"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd001",
+                "Surname": "Finke",
+                "createdAt": "2020-02-05T10:15:03.135Z",
+                "updatedAt": "2020-02-05T10:15:03.135Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd001"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd002",
+                "Surname": "Hoffmann",
+                "createdAt": "2020-02-05T10:15:03.153Z",
+                "updatedAt": "2020-02-05T10:15:03.153Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd002"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a54202f3003fdbcff6",
+                "Surname": "Jödicke",
+                "createdAt": "2020-02-05T10:15:01.223Z",
+                "updatedAt": "2020-02-05T10:15:01.223Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a54202f3003fdbcff6"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcff8",
+                "Surname": "Kühn",
+                "createdAt": "2020-02-05T10:15:02.098Z",
+                "updatedAt": "2020-02-05T10:15:02.098Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcff8"
+            },
+            {
+                "gender": "Herr",
+                "_id": "5e3a95a64202f3003fdbcffa",
+                "Surname": "Scharschuch",
+                "createdAt": "2020-02-05T10:15:02.132Z",
+                "updatedAt": "2020-02-05T10:15:02.132Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffa"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a64202f3003fdbcffc",
+                "Surname": "Schramm",
+                "createdAt": "2020-02-05T10:15:02.173Z",
+                "updatedAt": "2020-02-05T10:15:02.173Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a64202f3003fdbcffc"
+            },
+            {
+                "gender": "Frau",
+                "_id": "5e3a95a74202f3003fdbd003",
+                "Surname": "Werner",
+                "createdAt": "2020-02-05T10:15:03.181Z",
+                "updatedAt": "2020-02-05T10:15:03.181Z",
+                "__v": 0,
+                "Image": null,
+                "id": "5e3a95a74202f3003fdbd003"
+            }
+        ],
+        "absentClasses": [
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ac2d0cb04003f294fec",
+                "Name": "10a",
+                "createdAt": "2020-02-04T15:16:18.348Z",
+                "updatedAt": "2020-02-04T15:16:18.348Z",
+                "__v": 0,
+                "id": "5e398ac2d0cb04003f294fec"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398ac6d0cb04003f294fed",
+                "Name": "10b",
+                "createdAt": "2020-02-04T15:16:22.207Z",
+                "updatedAt": "2020-02-04T15:16:22.207Z",
+                "__v": 0,
+                "id": "5e398ac6d0cb04003f294fed"
+            },
+            {
+                "schoolSubjects": [],
+                "_id": "5e398acad0cb04003f294fee",
+                "Name": "10c",
+                "createdAt": "2020-02-04T15:16:26.686Z",
+                "updatedAt": "2020-02-04T15:16:26.686Z",
+                "__v": 0,
+                "id": "5e398acad0cb04003f294fee"
+            }
+        ],
+        "_id": "5e3ca885e966500050fed582",
+        "DatumTitle": "Freitag, 7. Februar 2020 ",
+        "Schulname": "Staatliches Gymnasium \"Geschwister Scholl\"",
+        "ErstellungsDatum": "2020-02-06T16:53:00.000Z",
+        "createDate": "2020-02-07",
+        "abwesendLehrer": "Frau Böttcher, Frau Finke, Frau Hoffmann, Frau Jödicke, Frau Kühn, Herr Scharschuch, Frau Schramm, Frau Werner",
+        "abwesendKlassen": "10a, 10b, 10c",
+        "aenderungLehrer": "Frau Breier, Herr Busch, Herr David, Herr Eggert, Frau Ehrenberg, Herr Gast, Frau Gleißberg, Frau Görg, Frau Jahn, Frau Jödicke, Frau Kühn - Lumm, Herr Sauerbier, Frau Strödter, Frau Strotzer, Frau Walter, Frau Werner, Frau Wiegandt, Herr Zenker",
+        "aenderungKlassen": "12/2, 6a, 6b, 7a, 7b, 8a, 8b, 8c, 9b",
+        "aufsichten": [
+            {
+                "aufsichtzeile": [
+                    {
+                        "aufsichtinfo": [
+                            "07:55:  Frühdienst - Frühdienst  -->  Frau Jahn (für Frau Strödter)"
+                        ]
+                    },
+                    {
+                        "aufsichtinfo": [
+                            "09:35:  p1 - Haus 1  -->  Frau Wiegandt (für Frau Jödicke)"
+                        ]
+                    },
+                    {
+                        "aufsichtinfo": [
+                            "11:30:  p2 - Hof 21  -->  Herr Gast (für Frau Werner)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "vertretung": [
+            {
+                "klasse": [
+                    "6a,6b"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    {
+                        "_": "---",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "eR Frau Schramm fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "6a"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    "Et"
+                ],
+                "lehrer": [
+                    "Frau Breier"
+                ],
+                "raum": [
+                    "311k"
+                ],
+                "info": [
+                    "gesamte Klasse 6a"
+                ]
+            },
+            {
+                "klasse": [
+                    "6b"
+                ],
+                "stunde": [
+                    "1"
+                ],
+                "fach": [
+                    {
+                        "_": "En",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr Zenker",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "306k",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "Gg Frau Schramm fällt aus"
+                ]
+            },
+            {
+                "klasse": [
+                    "6b"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    "Et"
+                ],
+                "lehrer": [
+                    "Frau Strotzer"
+                ],
+                "raum": [
+                    "306k"
+                ],
+                "info": [
+                    "gesamte Klasse 6b"
+                ]
+            },
+            {
+                "klasse": [
+                    "7a"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    "En"
+                ],
+                "lehrer": [
+                    "Frau Görg"
+                ],
+                "raum": [
+                    "121k"
+                ],
+                "info": [
+                    ""
+                ]
+            },
+            {
+                "klasse": [
+                    "7a"
+                ],
+                "stunde": [
+                    "4"
+                ],
+                "fach": [
+                    {
+                        "_": "Son",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Gleißberg",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "205k",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Et Frau Breier , Information Berufswahlpass"
+                ]
+            },
+            {
+                "klasse": [
+                    "7b"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    {
+                        "_": "Son",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Gleißberg",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "205k",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ma Frau Strotzer , Information Berufswahlpass"
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "1"
+                ],
+                "fach": [
+                    {
+                        "_": "La",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Jahn",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "129s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Bi Frau Böttcher "
+                ]
+            },
+            {
+                "klasse": [
+                    "8a"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    {
+                        "_": "La",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Jahn",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "129s"
+                ],
+                "info": [
+                    "für Mu Frau Böttcher "
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    {
+                        "_": "Ph",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr Eggert",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "304s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für De Herr Scharschuch "
+                ]
+            },
+            {
+                "klasse": [
+                    "8b"
+                ],
+                "stunde": [
+                    "4"
+                ],
+                "fach": [
+                    {
+                        "_": "Et",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Frau Breier",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "218s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "Ch Frau Walter gehalten am Do (06.02.) St.6"
+                ]
+            },
+            {
+                "klasse": [
+                    "8c"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    {
+                        "_": "Ph",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr Busch",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "306s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "für Ch Frau Hoffmann "
+                ]
+            },
+            {
+                "klasse": [
+                    "9b"
+                ],
+                "stunde": [
+                    "1"
+                ],
+                "fach": [
+                    {
+                        "_": "Ph",
+                        "dollar": {
+                            "fageaendert": "ae"
+                        }
+                    }
+                ],
+                "lehrer": [
+                    {
+                        "_": "Herr Eggert",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    {
+                        "_": "306s",
+                        "dollar": {
+                            "rageaendert": "ae"
+                        }
+                    }
+                ],
+                "info": [
+                    "verlegt von St.2; En Frau Kühn - Lumm verlegt nach St.2"
+                ]
+            },
+            {
+                "klasse": [
+                    "9b"
+                ],
+                "stunde": [
+                    "2"
+                ],
+                "fach": [
+                    "En"
+                ],
+                "lehrer": [
+                    "Frau Kühn - Lumm"
+                ],
+                "raum": [
+                    "124s"
+                ],
+                "info": [
+                    "verlegt von St.1; De Frau Jödicke verlegt nach St.1"
+                ]
+            },
+            {
+                "klasse": [
+                    "12/2/ En2"
+                ],
+                "stunde": [
+                    "3"
+                ],
+                "fach": [
+                    "En"
+                ],
+                "lehrer": [
+                    {
+                        "_": "(Frau Kühn)",
+                        "dollar": {
+                            "legeaendert": "ae"
+                        }
+                    }
+                ],
+                "raum": [
+                    "124s"
+                ],
+                "info": [
+                    "selbst. (v), Arbeitsauftrag Frau Kühn, Abgabe der Arbeiten bei Frau Strödter"
+                ]
+            }
+        ],
+        "createdAt": "2020-02-07T00:00:05.044Z",
+        "updatedAt": "2020-02-07T00:00:05.088Z",
+        "__v": 0,
+        "replacements": [
+            {
+                "teachers": [],
+                "_id": "5e3ca882e966500050fed571",
+                "subject": "---",
+                "room": null,
+                "description": "eR Frau Schramm fällt aus",
+                "hour": "2",
+                "createdAt": "2020-02-07T00:00:02.061Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca882e966500050fed571"
+            },
+            {
+                "teachers": [
+                    "5e3b5700e966500050fed551"
+                ],
+                "_id": "5e3ca882e966500050fed572",
+                "subject": "Et",
+                "room": "311k",
+                "description": "gesamte Klasse 6a",
+                "hour": "2",
+                "createdAt": "2020-02-07T00:00:02.184Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca882e966500050fed572"
+            },
+            {
+                "teachers": [
+                    "5e3b5702e966500050fed556"
+                ],
+                "_id": "5e3ca882e966500050fed573",
+                "subject": "En",
+                "room": "306k",
+                "description": "Gg Frau Schramm fällt aus",
+                "hour": "1",
+                "createdAt": "2020-02-07T00:00:02.285Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca882e966500050fed573"
+            },
+            {
+                "teachers": [
+                    "5e3a95a74202f3003fdbcffe"
+                ],
+                "_id": "5e3ca882e966500050fed574",
+                "subject": "Et",
+                "room": "306k",
+                "description": "gesamte Klasse 6b",
+                "hour": "2",
+                "createdAt": "2020-02-07T00:00:02.392Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca882e966500050fed574"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff5"
+                ],
+                "_id": "5e3ca882e966500050fed575",
+                "subject": "En",
+                "room": "121k",
+                "description": "",
+                "hour": "3",
+                "createdAt": "2020-02-07T00:00:02.505Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca882e966500050fed575"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff4"
+                ],
+                "_id": "5e3ca883e966500050fed576",
+                "subject": "Son",
+                "room": "205k",
+                "description": "für Et Frau Breier , Information Berufswahlpass",
+                "hour": "4",
+                "createdAt": "2020-02-07T00:00:03.047Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca883e966500050fed576"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff4"
+                ],
+                "_id": "5e3ca883e966500050fed577",
+                "subject": "Son",
+                "room": "205k",
+                "description": "für Ma Frau Strotzer , Information Berufswahlpass",
+                "hour": "3",
+                "createdAt": "2020-02-07T00:00:03.149Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca883e966500050fed577"
+            },
+            {
+                "teachers": [
+                    "5e3b5701e966500050fed553"
+                ],
+                "_id": "5e3ca883e966500050fed578",
+                "subject": "La",
+                "room": "129s",
+                "description": "für Bi Frau Böttcher ",
+                "hour": "1",
+                "createdAt": "2020-02-07T00:00:03.268Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca883e966500050fed578"
+            },
+            {
+                "teachers": [
+                    "5e3b5701e966500050fed553"
+                ],
+                "_id": "5e3ca883e966500050fed579",
+                "subject": "La",
+                "room": "129s",
+                "description": "für Mu Frau Böttcher ",
+                "hour": "2",
+                "createdAt": "2020-02-07T00:00:03.378Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca883e966500050fed579"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff0"
+                ],
+                "_id": "5e3ca883e966500050fed57a",
+                "subject": "Ph",
+                "room": "304s",
+                "description": "für De Herr Scharschuch ",
+                "hour": "2",
+                "createdAt": "2020-02-07T00:00:03.482Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca883e966500050fed57a"
+            },
+            {
+                "teachers": [
+                    "5e3b5700e966500050fed551"
+                ],
+                "_id": "5e3ca884e966500050fed57b",
+                "subject": "Et",
+                "room": "218s",
+                "description": "Ch Frau Walter gehalten am Do (06.02.) St.6",
+                "hour": "4",
+                "createdAt": "2020-02-07T00:00:04.044Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca884e966500050fed57b"
+            },
+            {
+                "teachers": [
+                    "5e3a95a44202f3003fdbcfee"
+                ],
+                "_id": "5e3ca884e966500050fed57c",
+                "subject": "Ph",
+                "room": "306s",
+                "description": "für Ch Frau Hoffmann ",
+                "hour": "2",
+                "createdAt": "2020-02-07T00:00:04.134Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca884e966500050fed57c"
+            },
+            {
+                "teachers": [
+                    "5e3a95a54202f3003fdbcff0"
+                ],
+                "_id": "5e3ca884e966500050fed57d",
+                "subject": "Ph",
+                "room": "306s",
+                "description": "verlegt von St.2; En Frau Kühn - Lumm verlegt nach St.2",
+                "hour": "1",
+                "createdAt": "2020-02-07T00:00:04.244Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca884e966500050fed57d"
+            },
+            {
+                "teachers": [
+                    "5e3a95a64202f3003fdbcff7"
+                ],
+                "_id": "5e3ca884e966500050fed57e",
+                "subject": "En",
+                "room": "124s",
+                "description": "verlegt von St.1; De Frau Jödicke verlegt nach St.1",
+                "hour": "2",
+                "createdAt": "2020-02-07T00:00:04.349Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca884e966500050fed57e"
+            },
+            {
+                "teachers": [
+                    "5e3ca884e966500050fed57f"
+                ],
+                "_id": "5e3ca884e966500050fed581",
+                "subject": "En",
+                "room": "124s",
+                "description": "selbst. (v), Arbeitsauftrag Frau Kühn, Abgabe der Arbeiten bei Frau Strödter",
+                "hour": "3",
+                "createdAt": "2020-02-07T00:00:04.494Z",
+                "updatedAt": "2020-02-07T00:00:05.070Z",
+                "__v": 0,
+                "representationPlan": "5e3ca885e966500050fed582",
+                "id": "5e3ca884e966500050fed581"
+            }
+        ],
+        "id": "5e3ca885e966500050fed582"
+    }
+]
