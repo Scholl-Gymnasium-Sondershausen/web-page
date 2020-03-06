@@ -1,19 +1,11 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import {
-    Button,
-    Col,
-    Container,
-    Form,
-    FormControl,
-    InputGroup,
-    Modal,
-    Row
 } from 'react-bootstrap';
-class DritteSeite extends Component{
+class DritteSeite extends Component {
     render() {
-        return(
+        return (
             <>
-            hello world
+                hello world
             </>
         )
     }

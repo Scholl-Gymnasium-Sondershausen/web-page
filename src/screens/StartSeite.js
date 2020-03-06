@@ -1,19 +1,11 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import {
-    Button,
-    Col,
-    Container,
-    Form,
-    FormControl,
-    InputGroup,
-    Modal,
-    Row
 } from 'react-bootstrap';
-class StartSeite extends Component{
+class StartSeite extends Component {
     render() {
-        return(
+        return (
             <>
-            hello world
+                hello world
             </>
         )
     }
